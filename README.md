@@ -3,4 +3,7 @@
 ---
 
 ismerkedés az .md állományokal
-Kielet szöveg: **félkövér**
+<p style="color: red">Kielet szöveg:</p> **félkövér**
+
+![képel](./100thievescs.jfif)
+[nemzeti sport](https://www.nemzetisport.hu)
